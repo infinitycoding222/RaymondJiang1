@@ -1,6 +1,6 @@
-# Hi. I am Beatzoid
+# Hi. I am RaymondJiang1
 
-### Developer and innovator
+### Discord Bot Developer
 
 ---
 
