@@ -10,6 +10,12 @@
 
 ---
 
+### Spotify Playing 🎧
+
+[<img src="https://spotify-now-playing-nine.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/j1cl2ti9x8fhj97rdd89b9dqq?si=K6_sZXqdTcOCGfs9GF9hOQ)
+
+---
+
 ## My stats (including private repos)
 
 ![My Github stats](https://github-readme-stats.beatzoid.vercel.app/api?username=RaymondJiang1&count_private=true&show_icons=true&theme=radical)
