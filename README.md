@@ -16,12 +16,10 @@
 
 ---
 
-## My stats (including private repos)
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
-![My Github stats](https://github-readme-stats.beatzoid.vercel.app/api?username=RaymondJiang1&theme=dark)
+  <img align="left" alt="RaymondJiang1's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=RaymondJiang1&show_icons=true&hide_border=true" />
 
-# Top languages
+</details>
 
-[![Top Langs](https://github-readme-stats.beatzoid.vercel.app/api/top-langs/?username=RaymondJiang1&theme=radical)]
-
----
