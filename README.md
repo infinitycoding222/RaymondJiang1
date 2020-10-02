@@ -18,10 +18,10 @@
 
 ## My stats (including private repos)
 
-![My Github stats](https://github-readme-stats.beatzoid.vercel.app/api?username=RaymondJiang1&count_private=true&show_icons=true&theme=radical)
+![My Github stats](https://github-readme-stats.beatzoid.vercel.app/api?username=RaymondJiang1&theme=dark)
 
 # Top languages
 
-[![Top Langs](https://github-readme-stats.beatzoid.vercel.app/api/top-langs/?username=RaymondJiang1&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.beatzoid.vercel.app/api/top-langs/?username=RaymondJiang1&theme=radical)]
 
 ---
